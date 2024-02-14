@@ -5,6 +5,7 @@
       <h1><router-link :to="{ name: 'Home' }">Music Playlist</router-link></h1>
       <div class="links">
         <div v-if="user">
+          <router-link :to="{ name: 'CreatePlaylist' }">Create Playlist</router-link>
           <button @click="handleClick">Logout</button>
         </div>
         <div v-else>
@@ -17,9 +18,9 @@
 </template>
 
 <script>
+import { useRouter } from 'vue-router';
 import getUser from '../composables/getUser';
 import useLogout from '../composables/useLogout';
-import { useRouter } from 'vue-router';
 
 export default {
   setup() {
