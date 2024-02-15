@@ -1,5 +1,31 @@
 # Music Playlist App
 
+![Screenshot](https://raw.githubusercontent.com/elvan/music-playlist-app-vue-firebase/main/_screenshots_/Screenshot%202024-02-15%20072837.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/music-playlist-app-vue-firebase/main/_screenshots_/Screenshot%202024-02-15%20072856.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/music-playlist-app-vue-firebase/main/_screenshots_/Screenshot%202024-02-15%20072916.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/music-playlist-app-vue-firebase/main/_screenshots_/Screenshot%202024-02-15%20072929.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/music-playlist-app-vue-firebase/main/_screenshots_/Screenshot%202024-02-15%20072939.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/music-playlist-app-vue-firebase/main/_screenshots_/Screenshot%202024-02-15%20073006.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/music-playlist-app-vue-firebase/main/_screenshots_/Screenshot%202024-02-15%20073021.png)
+
 ## Description
 
 This project, a Music Playlist App, is a web application that allows users to create, manage, and share music playlists. It leverages Vue.js for the frontend and Firebase for backend services including authentication, database, and storage, solving the problem of needing a centralized platform for music lovers to compile and share their favorite tunes. The app emphasizes user interaction by enabling playlist customization and social sharing.
